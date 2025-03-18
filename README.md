@@ -38,3 +38,20 @@ cd backend
 npm install
 npm start
 ```
+
+###3️⃣ Environment Variables
+Create a .env file in the backend directory and add the following:
+
+```
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_secret_key
+PORT=5000
+```
+##4️⃣ Run the Application
+Frontend: Runs on http://localhost:3000
+Backend: Runs on http://localhost:5000
+
+### Website Link
+```
+https://job-app-uatp.onrender.com/```
+
